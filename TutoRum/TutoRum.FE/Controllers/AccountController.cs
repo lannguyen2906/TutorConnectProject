@@ -160,7 +160,7 @@ namespace TutoRum.FE.Controllers
             if (user == null) return BadRequest("User not found.");
 
             var result = await accountRepo.ConfirmEmailAsync(user, token);
-            if (result.Succeeded) return Redirect("https://tutor-rum-project.vercel.app/login");
+            if (result.Succeeded) return Redirect("https://tutor-connect-project.vercel.app/login");
 
             return BadRequest("Email confirmation failed.");
         }
@@ -179,7 +179,7 @@ namespace TutoRum.FE.Controllers
 
             token = HttpUtility.UrlEncode(token);
             // Tạo link reset mật khẩu với token và email của người dùng
-            var resetLink = "https://tutor-rum-project.vercel.app/reset-password?token=" + token + "&email=" + user.Email;
+            var resetLink = "https://tutor-connect-project.vercel.app/reset-password?token=" + token + "&email=" + user.Email;
 
             var emailContent = $@"
                     <!DOCTYPE html>

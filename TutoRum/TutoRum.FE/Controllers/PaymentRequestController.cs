@@ -180,7 +180,7 @@ namespace TutoRum.FE.Controllers
                 {
                     return BadRequest("Email confirmation failed.");
                 }
-                return Redirect("https://tutor-rum-project.vercel.app/user/settings/wallet/");
+                return Redirect("https://tutor-connect-project.vercel.app/user/settings/wallet/");
             }
             catch (Exception ex)
             {

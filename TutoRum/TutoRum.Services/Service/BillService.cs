@@ -436,7 +436,7 @@ namespace TutoRum.Services.Service
             // Add approval button to the email content
             htmlContent += $@"
                 <div style='text-align: center; margin-top: 20px;'>
-                    <a href='https://tutor-rum-project.vercel.app/user/learning-classrooms/{billDetails.BillingEntries.First().TutorLearnerSubjectId}/bills/{billId}' 
+                    <a href='https://tutor-connect-project.vercel.app/user/learning-classrooms/{billDetails.BillingEntries.First().TutorLearnerSubjectId}/bills/{billId}' 
                        style='display: inline-block; padding: 10px 20px; background-color: #28a745; color: #fff; text-decoration: none; border-radius: 5px;'>
                         Approve Bill
                     </a>

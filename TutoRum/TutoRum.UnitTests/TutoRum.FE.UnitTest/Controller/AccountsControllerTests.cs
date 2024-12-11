@@ -399,7 +399,7 @@ namespace TutoRum.UnitTests.TutoRum.FE.UnitTest.Controller
             // Assert
             Assert.IsInstanceOf<RedirectResult>(result);
             var redirectResult = result as RedirectResult;
-            Assert.AreEqual("https://tutor-rum-project.vercel.app/login", redirectResult.Url);
+            Assert.AreEqual("https://tutor-connect-project.vercel.app/login", redirectResult.Url);
         }
 
         [Test]
