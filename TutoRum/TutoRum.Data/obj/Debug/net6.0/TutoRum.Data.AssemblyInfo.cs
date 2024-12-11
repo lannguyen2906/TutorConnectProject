@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TutoRum.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ced9f4f3df957357a75d4ed1301bf717f0201c81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fba04656ec09b41ddbcc3f6f46fbcd0b209f1eb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("TutoRum.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TutoRum.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

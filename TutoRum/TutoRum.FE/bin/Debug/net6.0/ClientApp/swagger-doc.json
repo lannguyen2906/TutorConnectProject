@@ -6,7 +6,7 @@
   },
   "servers": [
     {
-      "url": "http://localhost:7026"
+      "url": "https://tutorconnectservice-bqdtaqh5dhf7e3hz.southeastasia-01.azurewebsites.net"
     }
   ],
   "paths": {
@@ -12207,6 +12207,14 @@
           "createdUserId": {
             "type": "string",
             "format": "uuid",
+            "nullable": true
+          },
+          "registeredTutorIds": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "format": "uuid"
+            },
             "nullable": true
           }
         },

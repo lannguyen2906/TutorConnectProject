@@ -14,7 +14,7 @@ const DownloadContractButton = ({
     try {
       // Gọi API và thiết lập responseType để nhận dữ liệu dưới dạng Blob
       const response = await axios.get(
-        `https://tutorconnectapi-d8gafsgrdka9gkbs.southeastasia-01.azurewebsites.net/api/TutorLearnerSubject/download-contract/${tutorLearnerSubjectId}`,
+        `https://tutorconnectservice-bqdtaqh5dhf7e3hz.southeastasia-01.azurewebsites.net/api/TutorLearnerSubject/download-contract/${tutorLearnerSubjectId}`,
         // `http://localhost:7026/api/TutorLearnerSubject/download-contract/${tutorLearnerSubjectId}`,
         {
           responseType: "blob",
