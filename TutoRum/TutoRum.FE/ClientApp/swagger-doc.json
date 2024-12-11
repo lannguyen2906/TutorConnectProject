@@ -6,7 +6,7 @@
   },
   "servers": [
     {
-      "url": "https://tutorconnectapi-d8gafsgrdka9gkbs.southafricanorth-01.azurewebsites.net"
+      "url": "https://tutorconnectservice-bqdtaqh5dhf7e3hz.southeastasia-01.azurewebsites.net"
     }
   ],
   "paths": {

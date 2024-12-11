@@ -14,7 +14,7 @@
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "https://tutorconnectapi-d8gafsgrdka9gkbs.southafricanorth-01.azurewebsites.net",
+      "applicationUrl": "https://tutorconnectservice-bqdtaqh5dhf7e3hz.southeastasia-01.azurewebsites.net",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

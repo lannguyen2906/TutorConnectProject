@@ -34,7 +34,7 @@ builder.Services.AddSwaggerGen(option =>
 {
     option.AddServer(new OpenApiServer
     {
-        Url = "https://tutorconnectapi-d8gafsgrdka9gkbs.southafricanorth-01.azurewebsites.net"
+        Url = "https://tutorconnectservice-bqdtaqh5dhf7e3hz.southeastasia-01.azurewebsites.net"
     });
     option.SwaggerDoc("v1", new OpenApiInfo { Title = "TutorConnect API", Version = "v1" });
     option.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme

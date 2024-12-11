@@ -1,136 +1,164 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\DOAN\\TutorConnect\\TutoRum\\",
+  "WorkspaceRootPath": "C:\\DOAN\\TutorConnect1\\TutoRum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.unittests\\serviceunittest\\feedbackservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EDB5A7C-DCA6-4123-B0DD-E17D23DBE2EE}|TutoRum.FE\\TutoRum.FE.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.fe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EDB5A7C-DCA6-4123-B0DD-E17D23DBE2EE}|TutoRum.FE\\TutoRum.FE.csproj|solutionrelative:tutorum.fe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDB5A7C-DCA6-4123-B0DD-E17D23DBE2EE}|TutoRum.FE\\TutoRum.FE.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDB5A7C-DCA6-4123-B0DD-E17D23DBE2EE}|TutoRum.FE\\TutoRum.FE.csproj|solutionrelative:tutorum.fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDB5A7C-DCA6-4123-B0DD-E17D23DBE2EE}|TutoRum.FE\\TutoRum.FE.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.fe\\clientapp\\swagger-doc.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EDB5A7C-DCA6-4123-B0DD-E17D23DBE2EE}|TutoRum.FE\\TutoRum.FE.csproj|solutionrelative:tutorum.fe\\clientapp\\swagger-doc.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDB5A7C-DCA6-4123-B0DD-E17D23DBE2EE}|TutoRum.FE\\TutoRum.FE.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.fe\\clientapp\\src\\utils\\services\\api.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2EDB5A7C-DCA6-4123-B0DD-E17D23DBE2EE}|TutoRum.FE\\TutoRum.FE.csproj|solutionrelative:tutorum.fe\\clientapp\\src\\utils\\services\\api.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDB5A7C-DCA6-4123-B0DD-E17D23DBE2EE}|TutoRum.FE\\TutoRum.FE.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.fe\\clientapp\\src\\components\\ui\\download-bill.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2EDB5A7C-DCA6-4123-B0DD-E17D23DBE2EE}|TutoRum.FE\\TutoRum.FE.csproj|solutionrelative:tutorum.fe\\clientapp\\src\\components\\ui\\download-bill.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47388945-EEB4-4CC5-9634-C309F372001D}|TutoRum.Data\\TutoRum.Data.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.data\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47388945-EEB4-4CC5-9634-C309F372001D}|TutoRum.Data\\TutoRum.Data.csproj|solutionrelative:tutorum.data\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.services\\tutorum.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|solutionrelative:tutorum.services\\tutorum.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.unittests\\serviceunittest\\feedbackservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|solutionrelative:tutorum.unittests\\serviceunittest\\feedbackservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.services\\service\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.services\\service\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|solutionrelative:tutorum.services\\service\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lannt\\AppData\\Local\\SourceServer\\c06462657451a3e44cca8506cafdce8836345d783bfe79c7be693b4b1f7bf28b\\src\\NUnitFramework\\framework\\Internal\\TaskAwaitAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.unittests\\serviceunittest\\billingentryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.unittests\\serviceunittest\\billingentryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|solutionrelative:tutorum.unittests\\serviceunittest\\billingentryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.unittests\\serviceunittest\\tutorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.unittests\\serviceunittest\\tutorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|solutionrelative:tutorum.unittests\\serviceunittest\\tutorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.unittests\\serviceunittest\\faqservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.unittests\\serviceunittest\\faqservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|solutionrelative:tutorum.unittests\\serviceunittest\\faqservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.services\\service\\faqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.services\\service\\faqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|solutionrelative:tutorum.services\\service\\faqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.unittests\\serviceunittest\\tutorrequestservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.unittests\\serviceunittest\\tutorrequestservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|solutionrelative:tutorum.unittests\\serviceunittest\\tutorrequestservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.unittests\\serviceunittest\\billservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.unittests\\serviceunittest\\billservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|solutionrelative:tutorum.unittests\\serviceunittest\\billservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.services\\service\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.services\\service\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|solutionrelative:tutorum.services\\service\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.services\\service\\billingentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.services\\service\\billingentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|solutionrelative:tutorum.services\\service\\billingentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.services\\service\\tutorrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.services\\service\\tutorrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|solutionrelative:tutorum.services\\service\\tutorrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.unittests\\serviceunittest\\subjectservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.unittests\\serviceunittest\\subjectservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|solutionrelative:tutorum.unittests\\serviceunittest\\subjectservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.services\\service\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.services\\service\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|solutionrelative:tutorum.services\\service\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.services\\service\\tutorlearnersubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.services\\service\\tutorlearnersubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|solutionrelative:tutorum.services\\service\\tutorlearnersubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.services\\service\\tutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.services\\service\\tutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|solutionrelative:tutorum.services\\service\\tutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.unittests\\serviceunittest\\scheduleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.unittests\\serviceunittest\\scheduleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|solutionrelative:tutorum.unittests\\serviceunittest\\scheduleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.unittests\\serviceunittest\\paymentrequestservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.unittests\\serviceunittest\\paymentrequestservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|solutionrelative:tutorum.unittests\\serviceunittest\\paymentrequestservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.unittests\\serviceunittest\\postserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.unittests\\serviceunittest\\postserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|solutionrelative:tutorum.unittests\\serviceunittest\\postserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.unittests\\tutorum.fe.unittest\\controller\\postcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.unittests\\tutorum.fe.unittest\\controller\\postcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|solutionrelative:tutorum.unittests\\tutorum.fe.unittest\\controller\\postcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.unittests\\serviceunittest\\tutorlearnersubjectservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.unittests\\serviceunittest\\tutorlearnersubjectservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|solutionrelative:tutorum.unittests\\serviceunittest\\tutorlearnersubjectservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EDB5A7C-DCA6-4123-B0DD-E17D23DBE2EE}|TutoRum.FE\\TutoRum.FE.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.fe\\clientapp\\src\\app\\(user)\\user\\registered-tutors\\[id]\\tutor\\components\\tutordetail.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{2EDB5A7C-DCA6-4123-B0DD-E17D23DBE2EE}|TutoRum.FE\\TutoRum.FE.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.fe\\clientapp\\src\\app\\(user)\\user\\registered-tutors\\[id]\\tutor\\components\\tutordetail.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{2EDB5A7C-DCA6-4123-B0DD-E17D23DBE2EE}|TutoRum.FE\\TutoRum.FE.csproj|solutionrelative:tutorum.fe\\clientapp\\src\\app\\(user)\\user\\registered-tutors\\[id]\\tutor\\components\\tutordetail.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.unittests\\serviceunittest\\adminserviceunititest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.unittests\\serviceunittest\\adminserviceunititest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|solutionrelative:tutorum.unittests\\serviceunittest\\adminserviceunititest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.unittests\\serviceunittest\\accountserviceunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.unittests\\serviceunittest\\accountserviceunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|solutionrelative:tutorum.unittests\\serviceunittest\\accountserviceunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.unittests\\serviceunittest\\faqserviceunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.unittests\\serviceunittest\\faqserviceunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|solutionrelative:tutorum.unittests\\serviceunittest\\faqserviceunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.services\\service\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.services\\service\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|solutionrelative:tutorum.services\\service\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.services\\service\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.services\\service\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|solutionrelative:tutorum.services\\service\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.services\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.services\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|solutionrelative:tutorum.services\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EDB5A7C-DCA6-4123-B0DD-E17D23DBE2EE}|TutoRum.FE\\TutoRum.FE.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.fe\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EDB5A7C-DCA6-4123-B0DD-E17D23DBE2EE}|TutoRum.FE\\TutoRum.FE.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.fe\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EDB5A7C-DCA6-4123-B0DD-E17D23DBE2EE}|TutoRum.FE\\TutoRum.FE.csproj|solutionrelative:tutorum.fe\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.unittests\\tutorum.fe.unittest\\controller\\accountscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.unittests\\tutorum.fe.unittest\\controller\\accountscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|solutionrelative:tutorum.unittests\\tutorum.fe.unittest\\controller\\accountscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.services\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.services\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|solutionrelative:tutorum.services\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.unittests\\serviceunittest\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.unittests\\serviceunittest\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E07362A-9D35-4851-98CF-B066E83A5E25}|TutoRum.UnitTests\\TutoRum.UnitTests.csproj|solutionrelative:tutorum.unittests\\serviceunittest\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect\\tutorum\\tutorum.services\\service\\adminsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|c:\\doan\\tutorconnect1\\tutorum\\tutorum.services\\service\\adminsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8113C0A-BAD2-44C6-AAA9-A2D89F5749F4}|TutoRum.Services\\TutoRum.Services.csproj|solutionrelative:tutorum.services\\service\\adminsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -141,45 +169,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 265,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "BillingEntryServiceTests.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\BillingEntryServiceTests.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\BillingEntryServiceTests.cs",
               "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\BillingEntryServiceTests.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\BillingEntryServiceTests.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\BillingEntryServiceTests.cs",
               "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\BillingEntryServiceTests.cs",
               "ViewState": "AQIAANIBAAAAAAAAAAAYwOgBAAB/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T06:26:22.143Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "BillServiceTests.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\BillServiceTests.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\BillServiceTests.cs",
               "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\BillServiceTests.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\BillServiceTests.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\BillServiceTests.cs",
               "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\BillServiceTests.cs",
               "ViewState": "AQIAABgBAAAAAAAAAAAUwC4BAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T21:25:38.339Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "FeedbackServiceTests.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\FeedbackServiceTests.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\FeedbackServiceTests.cs",
               "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\FeedbackServiceTests.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\FeedbackServiceTests.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\FeedbackServiceTests.cs",
               "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\FeedbackServiceTests.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAswFMAAAAJAAAA",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAswIYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T08:24:21.665Z",
               "IsPinned": true,
@@ -187,33 +213,122 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FaqService.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\FaqService.cs",
-              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\FaqService.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\FaqService.cs",
-              "RelativeToolTip": "TutoRum.Services\\Service\\FaqService.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAArwF4AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T08:13:07.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BillService.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\BillService.cs",
-              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\BillService.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\BillService.cs",
-              "RelativeToolTip": "TutoRum.Services\\Service\\BillService.cs",
-              "ViewState": "AQIAAJ0BAAAAAAAAAAAAALwBAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T21:23:20.438Z",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.FE\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TutoRum.FE\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.FE\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TutoRum.FE\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwBQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T15:41:00.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "swagger-doc.json",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.FE\\ClientApp\\swagger-doc.json",
+              "RelativeDocumentMoniker": "TutoRum.FE\\ClientApp\\swagger-doc.json",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.FE\\ClientApp\\swagger-doc.json",
+              "RelativeToolTip": "TutoRum.FE\\ClientApp\\swagger-doc.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T15:40:47.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Api.ts",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.FE\\ClientApp\\src\\utils\\services\\Api.ts",
+              "RelativeDocumentMoniker": "TutoRum.FE\\ClientApp\\src\\utils\\services\\Api.ts",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.FE\\ClientApp\\src\\utils\\services\\Api.ts",
+              "RelativeToolTip": "TutoRum.FE\\ClientApp\\src\\utils\\services\\Api.ts",
+              "ViewState": "AQIAAKAJAAAAAAAAAAAAAK0JAAClAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-11T15:40:40.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "download-bill.tsx",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.FE\\ClientApp\\src\\components\\ui\\download-bill.tsx",
+              "RelativeDocumentMoniker": "TutoRum.FE\\ClientApp\\src\\components\\ui\\download-bill.tsx",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.FE\\ClientApp\\src\\components\\ui\\download-bill.tsx",
+              "RelativeToolTip": "TutoRum.FE\\ClientApp\\src\\components\\ui\\download-bill.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-11T15:40:28.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.FE\\Program.cs",
+              "RelativeDocumentMoniker": "TutoRum.FE\\Program.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.FE\\Program.cs",
+              "RelativeToolTip": "TutoRum.FE\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwvyQAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:39:32.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Data\\appsettings.json",
+              "RelativeDocumentMoniker": "TutoRum.Data\\appsettings.json",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Data\\appsettings.json",
+              "RelativeToolTip": "TutoRum.Data\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T15:39:25.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TutoRum.Services",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\TutoRum.Services.csproj",
+              "RelativeDocumentMoniker": "TutoRum.Services\\TutoRum.Services.csproj",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\TutoRum.Services.csproj",
+              "RelativeToolTip": "TutoRum.Services\\TutoRum.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T15:39:20.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FaqService.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\FaqService.cs",
+              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\FaqService.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\FaqService.cs",
+              "RelativeToolTip": "TutoRum.Services\\Service\\FaqService.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAArwF4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:13:07.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BillService.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\BillService.cs",
+              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\BillService.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\BillService.cs",
+              "RelativeToolTip": "TutoRum.Services\\Service\\BillService.cs",
+              "ViewState": "AQIAAJ0BAAAAAAAAAAAAALwBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:23:20.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "TaskAwaitAdapter.cs",
               "DocumentMoniker": "C:\\Users\\lannt\\AppData\\Local\\SourceServer\\c06462657451a3e44cca8506cafdce8836345d783bfe79c7be693b4b1f7bf28b\\src\\NUnitFramework\\framework\\Internal\\TaskAwaitAdapter.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\lannt\\AppData\\Local\\SourceServer\\c06462657451a3e44cca8506cafdce8836345d783bfe79c7be693b4b1f7bf28b\\src\\NUnitFramework\\framework\\Internal\\TaskAwaitAdapter.cs",
@@ -221,359 +336,331 @@
               "RelativeToolTip": "..\\..\\..\\Users\\lannt\\AppData\\Local\\SourceServer\\c06462657451a3e44cca8506cafdce8836345d783bfe79c7be693b4b1f7bf28b\\src\\NUnitFramework\\framework\\Internal\\TaskAwaitAdapter.cs",
               "ViewState": "AQIAAFEAAAAAAAAAAAAjwGIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T05:55:47.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T05:55:47.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "FeedbackService.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\FeedbackService.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\FeedbackService.cs",
               "RelativeDocumentMoniker": "TutoRum.Services\\Service\\FeedbackService.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\FeedbackService.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\FeedbackService.cs",
               "RelativeToolTip": "TutoRum.Services\\Service\\FeedbackService.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAAwCIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T08:22:24.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BillingEntryService.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\BillingEntryService.cs",
-              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\BillingEntryService.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\BillingEntryService.cs",
-              "RelativeToolTip": "TutoRum.Services\\Service\\BillingEntryService.cs",
-              "ViewState": "AQIAACsBAAAAAAAAAIAwwHEBAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T06:25:26.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TutorRequestServiceTests.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\TutorRequestServiceTests.cs",
-              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\TutorRequestServiceTests.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\TutorRequestServiceTests.cs",
-              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\TutorRequestServiceTests.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:17:27.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TutorServiceTests.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\TutorServiceTests.cs",
-              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\TutorServiceTests.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\TutorServiceTests.cs",
-              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\TutorServiceTests.cs",
-              "ViewState": "AQIAAPMBAAAAAAAAAAAIwAYCAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:14:53.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TutorRequestService.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\TutorRequestService.cs",
-              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\TutorRequestService.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\TutorRequestService.cs",
-              "RelativeToolTip": "TutoRum.Services\\Service\\TutorRequestService.cs",
-              "ViewState": "AQIAAJ4CAAAAAAAAAIAwwKACAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:13:05.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FaqServiceTests.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\FaqServiceTests.cs",
-              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\FaqServiceTests.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\FaqServiceTests.cs",
-              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\FaqServiceTests.cs",
-              "ViewState": "AQIAAGUAAAAAAAAAAAArwIIAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T08:14:01.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SubjectServiceTests.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\SubjectServiceTests.cs",
-              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\SubjectServiceTests.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\SubjectServiceTests.cs",
-              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\SubjectServiceTests.cs",
-              "ViewState": "AQIAAP0BAAAAAAAAAAAYwAECAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T06:07:19.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SubjectService.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\SubjectService.cs",
-              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\SubjectService.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\SubjectService.cs",
-              "RelativeToolTip": "TutoRum.Services\\Service\\SubjectService.cs",
-              "ViewState": "AQIAAC0BAAAAAAAAAIAwwFABAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T06:06:07.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TutorLearnerSubjectService.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\TutorLearnerSubjectService.cs",
-              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\TutorLearnerSubjectService.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\TutorLearnerSubjectService.cs",
-              "RelativeToolTip": "TutoRum.Services\\Service\\TutorLearnerSubjectService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T17:59:57.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TutorService.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\TutorService.cs",
-              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\TutorService.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\TutorService.cs",
-              "RelativeToolTip": "TutoRum.Services\\Service\\TutorService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:13:19.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ScheduleServiceTests.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\ScheduleServiceTests.cs",
-              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\ScheduleServiceTests.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\ScheduleServiceTests.cs",
-              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\ScheduleServiceTests.cs",
-              "ViewState": "AQIAAP0BAAAAAAAAAAAIwBACAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T19:25:56.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T08:22:24.835Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "PaymentRequestServiceTests.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\PaymentRequestServiceTests.cs",
-              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\PaymentRequestServiceTests.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\PaymentRequestServiceTests.cs",
-              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\PaymentRequestServiceTests.cs",
-              "ViewState": "AQIAAPcAAAAAAAAAAAAIwAoBAAAtAAAA",
+              "Title": "BillingEntryService.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\BillingEntryService.cs",
+              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\BillingEntryService.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\BillingEntryService.cs",
+              "RelativeToolTip": "TutoRum.Services\\Service\\BillingEntryService.cs",
+              "ViewState": "AQIAACsBAAAAAAAAAIAwwHEBAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:17:38.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T06:25:26.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TutorRequestServiceTests.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\TutorRequestServiceTests.cs",
+              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\TutorRequestServiceTests.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\TutorRequestServiceTests.cs",
+              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\TutorRequestServiceTests.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:17:27.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TutorServiceTests.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\TutorServiceTests.cs",
+              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\TutorServiceTests.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\TutorServiceTests.cs",
+              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\TutorServiceTests.cs",
+              "ViewState": "AQIAAPMBAAAAAAAAAAAIwAYCAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:14:53.338Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "PostServiceUnitTests.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\PostServiceUnitTests.cs",
-              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\PostServiceUnitTests.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\PostServiceUnitTests.cs",
-              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\PostServiceUnitTests.cs",
-              "ViewState": "AQIAAB8BAAAAAAAAAAAAACUBAAAGAAAA",
+              "Title": "TutorRequestService.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\TutorRequestService.cs",
+              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\TutorRequestService.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\TutorRequestService.cs",
+              "RelativeToolTip": "TutoRum.Services\\Service\\TutorRequestService.cs",
+              "ViewState": "AQIAAJ4CAAAAAAAAAIAwwKACAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:18:20.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T20:13:05.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FaqServiceTests.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\FaqServiceTests.cs",
+              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\FaqServiceTests.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\FaqServiceTests.cs",
+              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\FaqServiceTests.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAArwIIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:14:01.409Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "PostControllerTests.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\TutoRum.FE.UnitTest\\Controller\\PostControllerTests.cs",
-              "RelativeDocumentMoniker": "TutoRum.UnitTests\\TutoRum.FE.UnitTest\\Controller\\PostControllerTests.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\TutoRum.FE.UnitTest\\Controller\\PostControllerTests.cs",
-              "RelativeToolTip": "TutoRum.UnitTests\\TutoRum.FE.UnitTest\\Controller\\PostControllerTests.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAnwB0AAAAHAAAA",
+              "Title": "SubjectServiceTests.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\SubjectServiceTests.cs",
+              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\SubjectServiceTests.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\SubjectServiceTests.cs",
+              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\SubjectServiceTests.cs",
+              "ViewState": "AQIAAP0BAAAAAAAAAAAYwAECAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T21:22:08.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "TutorDetail.tsx",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.FE\\ClientApp\\src\\app\\(user)\\user\\registered-tutors\\[id]\\tutor\\components\\TutorDetail.tsx",
-              "RelativeDocumentMoniker": "TutoRum.FE\\ClientApp\\src\\app\\(user)\\user\\registered-tutors\\[id]\\tutor\\components\\TutorDetail.tsx",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.FE\\ClientApp\\src\\app\\(user)\\user\\registered-tutors\\[id]\\tutor\\components\\TutorDetail.tsx",
-              "RelativeToolTip": "TutoRum.FE\\ClientApp\\src\\app\\(user)\\user\\registered-tutors\\[id]\\tutor\\components\\TutorDetail.tsx",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAuwDkAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-12-09T18:54:14.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T06:07:19.322Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "TutorLearnerSubjectServiceTests.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\TutorLearnerSubjectServiceTests.cs",
-              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\TutorLearnerSubjectServiceTests.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\TutorLearnerSubjectServiceTests.cs",
-              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\TutorLearnerSubjectServiceTests.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAADwv3YAAAB1AAAA",
+              "Title": "SubjectService.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\SubjectService.cs",
+              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\SubjectService.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\SubjectService.cs",
+              "RelativeToolTip": "TutoRum.Services\\Service\\SubjectService.cs",
+              "ViewState": "AQIAAC0BAAAAAAAAAIAwwFABAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:17:08.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T06:06:07.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TutorLearnerSubjectService.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\TutorLearnerSubjectService.cs",
+              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\TutorLearnerSubjectService.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\TutorLearnerSubjectService.cs",
+              "RelativeToolTip": "TutoRum.Services\\Service\\TutorLearnerSubjectService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:59:57.546Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "AdminServiceUnitiTest.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\AdminServiceUnitiTest.cs",
-              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\AdminServiceUnitiTest.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\AdminServiceUnitiTest.cs",
-              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\AdminServiceUnitiTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Title": "TutorService.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\TutorService.cs",
+              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\TutorService.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\TutorService.cs",
+              "RelativeToolTip": "TutoRum.Services\\Service\\TutorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:19:56.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T20:13:19.226Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "AccountServiceUnitTest.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\AccountServiceUnitTest.cs",
-              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\AccountServiceUnitTest.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\AccountServiceUnitTest.cs",
-              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\AccountServiceUnitTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Title": "ScheduleServiceTests.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\ScheduleServiceTests.cs",
+              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\ScheduleServiceTests.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\ScheduleServiceTests.cs",
+              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\ScheduleServiceTests.cs",
+              "ViewState": "AQIAAP0BAAAAAAAAAAAIwBACAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T17:47:29.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T19:25:56.571Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "FaqServiceUnitTest.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\FaqServiceUnitTest.cs",
-              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\FaqServiceUnitTest.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\FaqServiceUnitTest.cs",
-              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\FaqServiceUnitTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Title": "PaymentRequestServiceTests.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\PaymentRequestServiceTests.cs",
+              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\PaymentRequestServiceTests.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\PaymentRequestServiceTests.cs",
+              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\PaymentRequestServiceTests.cs",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAIwAoBAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:17:58.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T20:17:38.978Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "ScheduleService.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\ScheduleService.cs",
-              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\ScheduleService.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\ScheduleService.cs",
-              "RelativeToolTip": "TutoRum.Services\\Service\\ScheduleService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Title": "PostServiceUnitTests.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\PostServiceUnitTests.cs",
+              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\PostServiceUnitTests.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\PostServiceUnitTests.cs",
+              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\PostServiceUnitTests.cs",
+              "ViewState": "AQIAAB8BAAAAAAAAAAAAACUBAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:13:03.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T20:18:20.806Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "PostService.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\PostService.cs",
-              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\PostService.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\PostService.cs",
-              "RelativeToolTip": "TutoRum.Services\\Service\\PostService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Title": "PostControllerTests.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\TutoRum.FE.UnitTest\\Controller\\PostControllerTests.cs",
+              "RelativeDocumentMoniker": "TutoRum.UnitTests\\TutoRum.FE.UnitTest\\Controller\\PostControllerTests.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\TutoRum.FE.UnitTest\\Controller\\PostControllerTests.cs",
+              "RelativeToolTip": "TutoRum.UnitTests\\TutoRum.FE.UnitTest\\Controller\\PostControllerTests.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAnwB0AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:13:01.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T21:22:08.854Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.FE\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "TutoRum.FE\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.FE\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "TutoRum.FE\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAADgBAAAAAAAAAAASwEcBAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:09:05.262Z",
-              "EditorCaption": ""
+              "Title": "TutorDetail.tsx",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.FE\\ClientApp\\src\\app\\(user)\\user\\registered-tutors\\[id]\\tutor\\components\\TutorDetail.tsx",
+              "RelativeDocumentMoniker": "TutoRum.FE\\ClientApp\\src\\app\\(user)\\user\\registered-tutors\\[id]\\tutor\\components\\TutorDetail.tsx",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.FE\\ClientApp\\src\\app\\(user)\\user\\registered-tutors\\[id]\\tutor\\components\\TutorDetail.tsx",
+              "RelativeToolTip": "TutoRum.FE\\ClientApp\\src\\app\\(user)\\user\\registered-tutors\\[id]\\tutor\\components\\TutorDetail.tsx",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwDkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-09T18:54:14.324Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\AccountService.cs",
-              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\AccountService.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\AccountService.cs",
-              "RelativeToolTip": "TutoRum.Services\\Service\\AccountService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIkAAAAvAAAA",
+              "Title": "TutorLearnerSubjectServiceTests.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\TutorLearnerSubjectServiceTests.cs",
+              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\TutorLearnerSubjectServiceTests.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\TutorLearnerSubjectServiceTests.cs",
+              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\TutorLearnerSubjectServiceTests.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAADwv3YAAAB1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:02:00.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\UserService.cs",
-              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\UserService.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\UserService.cs",
-              "RelativeToolTip": "TutoRum.Services\\Service\\UserService.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAASwEQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:58:57.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T20:17:08.655Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "AccountsControllerTests.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\TutoRum.FE.UnitTest\\Controller\\AccountsControllerTests.cs",
-              "RelativeDocumentMoniker": "TutoRum.UnitTests\\TutoRum.FE.UnitTest\\Controller\\AccountsControllerTests.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\TutoRum.FE.UnitTest\\Controller\\AccountsControllerTests.cs",
-              "RelativeToolTip": "TutoRum.UnitTests\\TutoRum.FE.UnitTest\\Controller\\AccountsControllerTests.cs",
-              "ViewState": "AQIAAKECAAAAAAAAAAASwMYCAAA5AAAA",
+              "Title": "AdminServiceUnitiTest.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\AdminServiceUnitiTest.cs",
+              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\AdminServiceUnitiTest.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\AdminServiceUnitiTest.cs",
+              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\AdminServiceUnitiTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T19:35:37.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T18:19:56.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AccountServiceUnitTest.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\AccountServiceUnitTest.cs",
+              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\AccountServiceUnitTest.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\AccountServiceUnitTest.cs",
+              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\AccountServiceUnitTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:47:29.865Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "UserServiceTests.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\UserServiceTests.cs",
-              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\UserServiceTests.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\UserServiceTests.cs",
-              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\UserServiceTests.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAFUAAAA5AAAA",
+              "Title": "FaqServiceUnitTest.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\FaqServiceUnitTest.cs",
+              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\FaqServiceUnitTest.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\FaqServiceUnitTest.cs",
+              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\FaqServiceUnitTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T19:01:13.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T20:17:58.074Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
+              "Title": "ScheduleService.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\ScheduleService.cs",
+              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\ScheduleService.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\ScheduleService.cs",
+              "RelativeToolTip": "TutoRum.Services\\Service\\ScheduleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:13:03.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\PostService.cs",
+              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\PostService.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\PostService.cs",
+              "RelativeToolTip": "TutoRum.Services\\Service\\PostService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:13:01.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.FE\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TutoRum.FE\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.FE\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TutoRum.FE\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADgBAAAAAAAAAAASwEcBAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:09:05.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\AccountService.cs",
+              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\AccountService.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\AccountService.cs",
+              "RelativeToolTip": "TutoRum.Services\\Service\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:02:00.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "TutoRum.Services\\Service\\UserService.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\UserService.cs",
+              "RelativeToolTip": "TutoRum.Services\\Service\\UserService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAASwEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:58:57.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AccountsControllerTests.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\TutoRum.FE.UnitTest\\Controller\\AccountsControllerTests.cs",
+              "RelativeDocumentMoniker": "TutoRum.UnitTests\\TutoRum.FE.UnitTest\\Controller\\AccountsControllerTests.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\TutoRum.FE.UnitTest\\Controller\\AccountsControllerTests.cs",
+              "RelativeToolTip": "TutoRum.UnitTests\\TutoRum.FE.UnitTest\\Controller\\AccountsControllerTests.cs",
+              "ViewState": "AQIAAKECAAAAAAAAAAASwMYCAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:35:37.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "TutoRum.UnitTests\\ServiceUnitTest\\UserServiceTests.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.UnitTests\\ServiceUnitTest\\UserServiceTests.cs",
+              "RelativeToolTip": "TutoRum.UnitTests\\ServiceUnitTest\\UserServiceTests.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAFUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:01:13.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "AdminSevice.cs",
-              "DocumentMoniker": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\AdminSevice.cs",
+              "DocumentMoniker": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\AdminSevice.cs",
               "RelativeDocumentMoniker": "TutoRum.Services\\Service\\AdminSevice.cs",
-              "ToolTip": "C:\\DOAN\\TutorConnect\\TutoRum\\TutoRum.Services\\Service\\AdminSevice.cs",
+              "ToolTip": "C:\\DOAN\\TutorConnect1\\TutoRum\\TutoRum.Services\\Service\\AdminSevice.cs",
               "RelativeToolTip": "TutoRum.Services\\Service\\AdminSevice.cs",
               "ViewState": "AQIAAEQAAAAAAAAAAAArwFoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:18:20.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T18:18:20.625Z"
             }
           ]
         }

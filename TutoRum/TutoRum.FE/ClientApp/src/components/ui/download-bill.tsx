@@ -10,7 +10,7 @@ const DownloadBillButton = ({ billId }: { billId: number }) => {
     try {
       // Gọi API và thiết lập responseType để nhận dữ liệu dưới dạng Blob
       const response = await axios.get(
-        `https://tutorconnectapi-d8gafsgrdka9gkbs.southafricanorth-01.azurewebsites.net/api/Bill/GenerateBillPdf?billId=${billId}`,
+        `https://tutorconnectservice-bqdtaqh5dhf7e3hz.southeastasia-01.azurewebsites.net/api/Bill/GenerateBillPdf?billId=${billId}`,
         {
           responseType: "blob",
         }
