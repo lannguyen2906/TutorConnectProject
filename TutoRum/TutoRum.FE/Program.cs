@@ -68,7 +68,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowSpecificOrigins",
         builder =>
         {
-            builder.WithOrigins("https://tutor-rum-project.vercel.app", "http://localhost:3000", "http://localhost:7026" , "AllowAllOrigins")
+            builder.WithOrigins("https://tutor-connect-project.vercel.app", "http://localhost:3000", "http://localhost:7026" , "AllowAllOrigins")
                    .AllowAnyHeader()
                    .AllowAnyMethod()
                    .AllowCredentials();
