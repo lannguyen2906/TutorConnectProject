@@ -17,6 +17,7 @@ import ClassroomLearningSchedule from "./ClassroomLearningSchedule";
 import { useRegisterTutorSubject, useTutorDetail } from "@/hooks/use-tutor";
 import {
   RegisterLearnerDTO,
+  ScheduleDTO,
   TutorLearnerSubjectSummaryDetailDto,
 } from "@/utils/services/Api";
 import {
@@ -30,6 +31,16 @@ import { useRouter } from "next/navigation";
 import { useAppContext } from "@/components/provider/app-provider";
 import AcceptTermsCondition from "@/app/(user)/user/settings/user-profile/components/AcceptTermsCondition";
 import { toast } from "react-toastify";
+
+const daysOfWeek: Record<number, string> = {
+  1: "Chủ nhật",
+  2: "Thứ hai",
+  3: "Thứ ba",
+  4: "Thứ tư",
+  5: "Thứ năm",
+  6: "Thứ sáu",
+  7: "Thứ bảy",
+};
 
 interface ISubject {
   id: number;
@@ -143,6 +154,12 @@ const RegisterTutorSubjectForm = ({
       console.log(err);
     }
   }
+
+  const tutorFreeTimes: ScheduleDTO[] = Object.keys(daysOfWeek).map((key) => ({
+    daysOfWeek: Number(key),
+    freeTimes: tutor?.schedules?.find((s) => s.dayOfWeek == Number(key))
+      ?.freeTimes,
+  }));
 
   return (
     <div className="w-full">
@@ -304,7 +321,7 @@ const RegisterTutorSubjectForm = ({
                   (Chọn số buổi và số giờ/ buổi để có thể thêm ca học)
                 </span>
               </FormLabel>
-              <ClassroomLearningSchedule tutorSchedule={tutor?.schedules} />
+              <ClassroomLearningSchedule tutorSchedule={tutorFreeTimes} />
             </div>
           )}
           <div className="text-end">

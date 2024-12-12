@@ -80,10 +80,10 @@ namespace TutoRum.Services.ViewModels
         public string? ProfileDescription { get; set; }
         public bool? IsVerified { get; set; }
         public int? TutorQualificationId { get; set; }
-        public string FullName { get; set; }
-        public string AvatarUrl { get; set; }
-        public int AddressId { get; set; }
-        public bool IsAccepted { get; set; } = false;
+        public string? FullName { get; set; }
+        public string? AvatarUrl { get; set; }
+        public int? AddressId { get; set; }
+        public bool? IsAccepted { get; set; } = false;
 
         public DateTime? CreatedDate { get; set; }
 

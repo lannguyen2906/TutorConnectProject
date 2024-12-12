@@ -270,19 +270,30 @@ const TutorLearnerSubjectDetailForm = ({
             title="Lịch học"
           />
           <div className="text-end">
-            <Button
-              className="mt-5"
-              type="primary"
-              htmlType="submit"
-              loading={isLoading}
-              disabled={
-                !form.formState.isDirty ||
-                tutorLearnerSubjectDetail?.isContractVerified == true ||
-                tutorLearnerSubjectDetail?.isClosed == true
-              }
-            >
-              Cập nhật
-            </Button>
+            {tutorLearnerSubjectDetail?.tutorId == user?.id &&
+            !tutorLearnerSubjectDetail?.isVerified ? (
+              <VerifyButton
+                guid={null}
+                entityType={3}
+                id={tutorLearnerSubjectDetail?.tutorLearnerSubjectId!}
+                isVerified={null}
+                mode="tutor"
+              />
+            ) : (
+              <Button
+                className="mt-5"
+                type="primary"
+                htmlType="submit"
+                loading={isLoading}
+                disabled={
+                  !form.formState.isDirty ||
+                  tutorLearnerSubjectDetail?.isContractVerified == true ||
+                  tutorLearnerSubjectDetail?.isClosed == true
+                }
+              >
+                Cập nhật
+              </Button>
+            )}
           </div>
         </form>
       </Form>

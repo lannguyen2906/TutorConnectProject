@@ -90,7 +90,7 @@ const ClassroomLearningSchedule = ({
       onCell: () => ({
         style: { verticalAlign: "top" },
       }),
-      render: () => (
+      render: (_,record) => (
         <DayColumn
           key={day}
           day={Number(day)}

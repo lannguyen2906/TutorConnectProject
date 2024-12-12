@@ -73,7 +73,7 @@ const Page = () => {
 
   const client = new OpenAI({
     baseURL: "https://models.inference.ai.azure.com",
-    apiKey: "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",
+    apiKey: "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",
     dangerouslyAllowBrowser: true,
   });
 

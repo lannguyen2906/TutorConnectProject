@@ -26,7 +26,10 @@ const ProfileAvatar = () => {
       setUploading(true); // Bắt đầu quá trình tải lên
       const url = await moveFile("avatar");
 
-      const { data } = await updateProfile({ avatarUrl: url });
+      const { data } = await updateProfile({
+        avatarUrl: url,
+        fullname: user?.fullName,
+      });
 
       if (data.status === 200) {
         toast.success("Đổi avatar thành công!");

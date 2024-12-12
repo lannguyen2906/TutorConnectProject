@@ -55,9 +55,11 @@ const UpdateBillingEntryButton = ({
   const [open, setOpen] = useState(false);
   return (
     <div>
-      <button disabled={disabled} onClick={() => setOpen(true)}>
-        <Edit size={16} />
-      </button>
+      <Button
+        icon={<Edit size={16} />}
+        disabled={disabled}
+        onClick={() => setOpen(true)}
+      />
 
       <Modal
         title="Thêm buổi học"
