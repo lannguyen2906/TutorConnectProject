@@ -34,7 +34,7 @@ builder.Services.AddSwaggerGen(option =>
 {
     option.AddServer(new OpenApiServer
     {
-        Url = "https://tutorconnectapi-d8gafsgrdka9gkbs.canadacentral-01.azurewebsites.net"
+        Url = "https://tutorconnectapiservice-hkhecjd7azg2gcfm.canadacentral-01.azurewebsites.net"
     });
     option.SwaggerDoc("v1", new OpenApiInfo { Title = "TutorConnect API", Version = "v1" });
 });
@@ -134,22 +134,37 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
     .AddCookie();
 
 var app = builder.Build();
+
+// 1. Xử lý file tĩnh trước tiên (nếu có)
+app.UseStaticFiles();
+
+// 2. Định tuyến
 app.UseRouting();
 
+// 3. Bật Swagger (nếu chỉ sử dụng trong môi trường Development, cần kiểm tra môi trường)
 app.UseSwagger();
 app.UseSwaggerUI();
 
+// 4. HSTS và HTTPS Redirection
 app.UseHttpsRedirection();
 
+// 5. Bật CORS (phải đặt trước các middleware authentication/authorization)
 app.UseCors("AllowSpecificOrigins");
 
+// 6. Authentication
 app.UseAuthentication();
+
+// 7. Authorization
 app.UseAuthorization();
 
-app.UseStaticFiles();
+// 8. Định tuyến các controller
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllers();
+});
 
-app.MapFallbackToFile("index.html"); // Đảm bảo chỉ định đường dẫn chính xác tới file Next.js hoặc React.js khi deploy.
+// 9. Định tuyến file fallback (Next.js/React.js SPA)
+app.MapFallbackToFile("index.html");
 
-app.MapControllers();
-
+// 10. Khởi chạy ứng dụng
 app.Run();

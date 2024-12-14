@@ -21,17 +21,32 @@ jobs:
         with:
           dotnet-version: '6.0.x'
 
-      - name: Build with dotnet
-        run: dotnet build --configuration Release
+      - name: dotnet publish - TutoRum.Services
+        run: dotnet publish TutoRum/TutoRum.Services/TutoRum.Services.csproj -c Release -o "${{ github.workspace }}/TutoRum.Services"
+      
+      - name: dotnet publish - TutoRum.Data
+        run: dotnet publish TutoRum/TutoRum.Data/TutoRum.Data.csproj -c Release -o "${{ github.workspace }}/TutoRum.Data"
+      
+      - name: dotnet publish - TutoRum.FE
+        run: dotnet publish TutoRum/TutoRum.FE/TutoRum.FE.csproj -c Release -o "${{ github.workspace }}/TutoRum.FE"
+        
+      - name: Upload artifact for TutoRum.Services
+        uses: actions/upload-artifact@v4
+        with:
+          name: tutoRum-services
+          path: "${{ github.workspace }}/TutoRum.Services"
 
-      - name: dotnet publish
-        run: dotnet publish -c Release -o "${{env.DOTNET_ROOT}}/myapp"
-
+      - name: Upload artifact for TutoRum.Data
+        uses: actions/upload-artifact@v4
+        with:
+          name: tutoRum-data
+          path: "${{ github.workspace }}/TutoRum.Data"
+          
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
         with:
-          name: .net-app
-          path: ${{env.DOTNET_ROOT}}/myapp
+          name: tutoRum-fe
+          path: "${{ github.workspace }}/TutoRum.FE"
 
   deploy:
     runs-on: windows-latest
@@ -43,10 +58,23 @@ jobs:
       id-token: write #This is required for requesting the JWT
 
     steps:
-      - name: Download artifact from build job
+      - name: Download artifact for TutoRum.Services
         uses: actions/download-artifact@v4
         with:
-          name: .net-app
+          name: tutoRum-services
+          path: "${{ github.workspace }}/TutoRum.Services"
+
+      - name: Download artifact for TutoRum.Data
+        uses: actions/download-artifact@v4
+        with:
+          name: tutoRum-data
+          path: "${{ github.workspace }}/TutoRum.Data"
+          
+      - name: Download artifact for TutoRum.FE
+        uses: actions/download-artifact@v4
+        with:
+          name: tutoRum-fe
+          path: "${{ github.workspace }}/TutoRum.FE"
       
       - name: Login to Azure
         uses: azure/login@v2
@@ -55,11 +83,24 @@ jobs:
           tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_D202CC6CA2EA4641973F2817C493A98B }}
           subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_5AFF07BC30A647B382A79D89C7010028 }}
 
-      - name: Deploy to Azure Web App
-        id: deploy-to-webapp
+      - name: Deploy TutoRum.Services to Azure Web App
         uses: azure/webapps-deploy@v3
         with:
           app-name: 'tutorconnectapiservice'
           slot-name: 'Production'
-          package: .
+          package: '${{ github.workspace }}/TutoRum.Services'  
+
+      - name: Deploy TutoRum.Data to Azure Web App
+        uses: azure/webapps-deploy@v3
+        with:
+          app-name: 'tutorconnectapiservice'
+          slot-name: 'Production'
+          package: '${{ github.workspace }}/TutoRum.Data'  
+
+      - name: Deploy TutoRum.Fe to Azure Web App
+        uses: azure/webapps-deploy@v3
+        with:
+          app-name: 'tutorconnectapiservice'
+          slot-name: 'Production'
+          package: '${{ github.workspace }}/TutoRum.FE'
           
