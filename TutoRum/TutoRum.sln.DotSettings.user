@@ -1,0 +1,90 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=03789877_002D4449_002D422b_002D90f9_002D17897d590ac7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TutorLearnerSubjectControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=19c4e3a3_002Dffd7_002D45af_002D937a_002D5aa5f03b8704/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="QualificationLevelControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=28bf7100_002Db915_002D4261_002D97e2_002D8b72bde6305f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TutorServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=55f9b848_002Dbd67_002D4cb1_002D8b8e_002Db6d0306703fe/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=63605ac3_002D6a23_002D44c9_002Dae1c_002D0891873680d3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PaymentRequestControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6372c615_002D03e6_002D439f_002D9097_002D57dc8162bc82/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PaymentControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=685527f2_002Ddd3c_002D419d_002Dabeb_002D8fa5651d527a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ScheduleServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4E07362A-9D35-4851-98CF-B066E83A5E25::net6.0::TutoRum.UnitTests.ServiceUnitTest.ScheduleServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8b9ce8b7_002Dbe2a_002D415a_002Db067_002D1f342d387289/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8ea5e678_002De968_002D4fe5_002Db33b_002D6b19aa2cc12c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TutorControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9d0c3666_002Db052_002D483b_002D9ada_002D841f5e308a09/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FeedbackServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b2951705_002D7f08_002D4144_002Dbcae_002Df675af4e563d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RateRangeServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4E07362A-9D35-4851-98CF-B066E83A5E25::net6.0::TutoRum.UnitTests.ServiceUnitTest.RateRangeServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b6d39813_002D8387_002D4d39_002Da344_002Dae973cb2929e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AdminControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c571a32e_002D0623_002D4ade_002D9c5a_002Dfea255e48963/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TutorRequestServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dd0c1e84_002D22b5_002D41c9_002D8e6e_002D22b5d3473ecd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Solution #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</wpf:ResourceDictionary>
