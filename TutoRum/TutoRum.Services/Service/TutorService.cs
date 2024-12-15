@@ -84,11 +84,11 @@ namespace TutoRum.Services.Service
             var strategy = _unitOfWork.Tutors.GetExecutionStrategy();
 
             // Thực hiện các thao tác trong phạm vi của ExecutionStrategy để có thể thử lại nếu có lỗi tạm thời
-            await strategy.ExecuteAsync(async () =>
-            {
-                // Bắt đầu transaction
-                using (var transaction = await _unitOfWork.Tutors.BeginTransactionAsync())
-                {
+            //await strategy.ExecuteAsync(async () =>
+            //{
+            //    // Bắt đầu transaction
+            //    using (var transaction = await _unitOfWork.Tutors.BeginTransactionAsync())
+            //    {
                     try
                     {
                         // Thêm vai trò gia sư cho user
@@ -158,11 +158,11 @@ namespace TutoRum.Services.Service
                     catch (Exception ex)
                     {
                         // Rollback nếu có lỗi xảy ra
-                        await transaction.RollbackAsync();
+                        //await transaction.RollbackAsync();
                         throw new Exception("Error during tutor registration process: " + ex.Message, ex);
                     }
-                }
-            });
+            //    }
+            //});
         }
 
         public async Task UpdateTutorInfoAsync(UpdateTutorInforDTO tutorDto, ClaimsPrincipal user)
