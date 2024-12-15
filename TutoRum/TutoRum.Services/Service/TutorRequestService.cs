@@ -700,7 +700,7 @@ namespace TutoRum.Services.Service
             // Thêm nút "Xem chi tiết yêu cầu" vào nội dung email
             htmlContent += $@"
     <div style='text-align: center; margin-top: 20px;'>
-        <a href='https://tutor-connect-deploy-six.vercel.app/tutor-requests/{tutorRequest.Id}' 
+        <a href='https://tutor-connect-project.vercel.app/tutor-requests/{tutorRequest.Id}' 
            style='display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px;'>
             Xem chi tiết yêu cầu
         </a>

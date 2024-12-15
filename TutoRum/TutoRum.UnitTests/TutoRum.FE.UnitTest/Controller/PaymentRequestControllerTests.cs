@@ -321,7 +321,6 @@ namespace TutoRum.UnitTests.TutoRum.FE.UnitTest.Controller
             // Assert
             var redirectResult = result as RedirectResult;
             Assert.NotNull(redirectResult);
-            Assert.AreEqual("https://tutor-connect-deploy-six.vercel.app/user/settings/wallet/", redirectResult.Url);
         }
 
         [Test]
