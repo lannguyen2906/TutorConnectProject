@@ -34,7 +34,7 @@ builder.Services.AddSwaggerGen(option =>
 {
     option.AddServer(new OpenApiServer
     {
-        Url = "https://tutorconnectapiservice-hkhecjd7azg2gcfm.canadacentral-01.azurewebsites.net"
+        Url = "https://tutorservice-cdfwescmepdcgaa5.southeastasia-01.azurewebsites.net"
     });
     option.SwaggerDoc("v1", new OpenApiInfo { Title = "TutorConnect API", Version = "v1" });
 });
@@ -45,7 +45,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowSpecificOrigins",
         builder =>
         {
-            builder.WithOrigins("https://tutor-connect-deploy-six.vercel.app", "http://localhost:3000", "http://localhost:7026", "AllowAllOrigins")
+            builder.WithOrigins("https://tutor-connect-deploy-six.vercel.app", "http://localhost:3000", "https://tutorservice-cdfwescmepdcgaa5.southeastasia-01.azurewebsites.net", "AllowAllOrigins")
                    .AllowAnyHeader()
                    .AllowAnyMethod()
                    .AllowCredentials();

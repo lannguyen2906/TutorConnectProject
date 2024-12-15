@@ -9,7 +9,7 @@ const DownloadPaymentRequestsButton = () => {
     try {
       // Gọi API và thiết lập responseType để nhận dữ liệu dưới dạng Blob
       const response = await axios.get(
-        `https://tutorconnectapiservice-hkhecjd7azg2gcfm.southeastasia-01.azurewebsites.net/api/PaymentRequest/download-payment-requests`, // Đảm bảo URL chính xác
+        `https://tutorservice-cdfwescmepdcgaa5.southeastasia-01.azurewebsites.net/api/PaymentRequest/download-payment-requests`, // Đảm bảo URL chính xác
         {
           responseType: "blob", // Thiết lập responseType là 'blob' để nhận file
         }
