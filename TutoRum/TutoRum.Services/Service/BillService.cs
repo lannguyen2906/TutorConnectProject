@@ -246,7 +246,7 @@ namespace TutoRum.Services.Service
             }
 
             // Tạo mã QR từ URL thanh toán
-            string paymentUrl = "https://yourwebsite.com/payment?billId=" + billDetails.BillId;
+            string paymentUrl = "https://tutorconnectapise-crgea4bua7gwanas.southafricanorth-01.azurewebsites.net/api/Payment/CreatePaymentUrl/" + billDetails.BillId;
             string qrImageBase64 = GenerateQrCodeBase64(paymentUrl);
 
             // URL để tải xuống PDF
@@ -265,7 +265,7 @@ namespace TutoRum.Services.Service
             var billDetails = await GetBillDetailsByIdAsync(billId);
 
             // Tạo mã QR từ URL thanh toán
-            string paymentUrl = "https://yourwebsite.com/payment?billId=" + billDetails.BillId;
+            string paymentUrl = "https://tutorconnectapise-crgea4bua7gwanas.southafricanorth-01.azurewebsites.net/api/Payment/CreatePaymentUrl/" + billDetails.BillId;
             string qrImageBase64 = GenerateQrCodeBase64(paymentUrl);
 
 
