@@ -119,7 +119,6 @@ namespace TutoRum.Services.Service
                         };
 
                         // Cập nhật địa chỉ cho user
-                        currentUser.AddressId = tutorDto.AddressID;
                         _unitOfWork.Accounts.Update(currentUser);
 
                         // Thêm gia sư mới vào hệ thống
@@ -159,7 +158,7 @@ namespace TutoRum.Services.Service
                     catch (Exception ex)
                     {
                         // Rollback nếu có lỗi xảy ra
-                        //await transaction.RollbackAsync();
+                        await transaction.RollbackAsync();
                         throw new Exception("Error during tutor registration process: " + ex.Message, ex);
                     }
                 }
