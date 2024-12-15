@@ -2556,7 +2556,7 @@ export class HttpClient<SecurityDataType = unknown> {
   private format?: ResponseType;
 
   constructor({ securityWorker, secure, format, ...axiosConfig }: ApiConfig<SecurityDataType> = {}) {
-      this.instance = axios.create({ ...axiosConfig, baseURL: axiosConfig.baseURL || "https://tutorservice-cdfwescmepdcgaa5.southeastasia-01.azurewebsites.net" });
+      this.instance = axios.create({ ...axiosConfig, baseURL: axiosConfig.baseURL || "https://tutorconnectapise-crgea4bua7gwanas.southafricanorth-01.azurewebsites.net" });
     this.secure = secure;
     this.format = format;
     this.securityWorker = securityWorker;
