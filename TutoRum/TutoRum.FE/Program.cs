@@ -37,15 +37,38 @@ builder.Services.AddSwaggerGen(option =>
         Url = "https://tutorconnectapise-crgea4bua7gwanas.southafricanorth-01.azurewebsites.net"
     });
     option.SwaggerDoc("v1", new OpenApiInfo { Title = "TutorConnect API", Version = "v1" });
-});
+    option.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+    {
+        In = ParameterLocation.Header,
+        Description = "Please enter a valid token",
+        Name = "Authorization",
+        Type = SecuritySchemeType.Http,
+        BearerFormat = "JWT",
+        Scheme = "Bearer"
+    });
+    option.AddSecurityRequirement(new OpenApiSecurityRequirement
+    {
+        {
+            new OpenApiSecurityScheme
+            {
+                Reference = new OpenApiReference
+                {
+                    Type=ReferenceType.SecurityScheme,
+                    Id="Bearer"
+                }
+            },
+            new string[]{}
+        }
+    });
 
+});
 
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowSpecificOrigins",
         builder =>
         {
-            builder.WithOrigins("https://tutor-connect-deploy-six.vercel.app", "http://localhost:3000", "https://tutorconnectapise-crgea4bua7gwanas.southafricanorth-01.azurewebsites.net", "AllowAllOrigins")
+            builder.WithOrigins("https://tutor-connect-deploy-six.vercel.app", "https://tutorconnectapise-crgea4bua7gwanas.southafricanorth-01.azurewebsites.net")
                    .AllowAnyHeader()
                    .AllowAnyMethod()
                    .AllowCredentials();
@@ -134,37 +157,22 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
     .AddCookie();
 
 var app = builder.Build();
-
-// 1. Xử lý file tĩnh trước tiên (nếu có)
-app.UseStaticFiles();
-
-// 2. Định tuyến
 app.UseRouting();
 
-// 3. Bật Swagger (nếu chỉ sử dụng trong môi trường Development, cần kiểm tra môi trường)
 app.UseSwagger();
 app.UseSwaggerUI();
 
-// 4. HSTS và HTTPS Redirection
 app.UseHttpsRedirection();
 
-// 5. Bật CORS (phải đặt trước các middleware authentication/authorization)
 app.UseCors("AllowSpecificOrigins");
 
-// 6. Authentication
 app.UseAuthentication();
-
-// 7. Authorization
 app.UseAuthorization();
 
-// 8. Định tuyến các controller
-app.UseEndpoints(endpoints =>
-{
-    endpoints.MapControllers();
-});
+app.UseStaticFiles();
 
-// 9. Định tuyến file fallback (Next.js/React.js SPA)
-app.MapFallbackToFile("index.html");
+app.MapFallbackToFile("index.html"); // Đảm bảo chỉ định đường dẫn chính xác tới file Next.js hoặc React.js khi deploy.
 
-// 10. Khởi chạy ứng dụng
+app.MapControllers();
+
 app.Run();
