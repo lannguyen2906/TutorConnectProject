@@ -68,11 +68,11 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowSpecificOrigins",
         builder =>
         {
-            builder.WithOrigins("https://tutor-connect-deploy-six.vercel.app", "https://tutorconnectapise-crgea4bua7gwanas.southafricanorth-01.azurewebsites.net", "AllowAllOrigins")
-                    .AllowAnyOrigin()
+            builder.WithOrigins("https://tutor-connect-deploy-six.vercel.app",
+                     "https://tutorconnectapise-crgea4bua7gwanas.southafricanorth-01.azurewebsites.net")
                     .AllowAnyHeader()
-                   .AllowAnyMethod()
-                   .AllowCredentials();
+                    .AllowAnyMethod()
+                    .AllowCredentials();
         });
 });
 
